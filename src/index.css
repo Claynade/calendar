@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* .custom-checkbox:checked + .checkmark {
+  background-color: orange;
+  border-color: orange;
+}
+ */
